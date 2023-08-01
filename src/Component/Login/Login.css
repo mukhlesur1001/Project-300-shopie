@@ -1,0 +1,36 @@
+.form-section{
+    margin: 7rem;
+}
+.form-div{
+    padding:  4rem;
+    background-color: aliceblue;
+}
+.form-div h1{
+    font-size: 2.5rem;
+    padding-bottom: 1rem;
+    text-decoration: underline;
+    color: #0984e3;
+}
+.form-div p{
+    font-size: 1.5rem;
+    padding-top: 2rem;
+}
+.input-div label{
+   font-size: 1.5rem;
+}
+input{
+    text-transform: lowercase;
+}
+.google-box {
+    margin-top: 1rem;
+    background-color: #4082ED;
+    padding: .8rem 2.5rem;
+    border-radius: .3rem;
+        background-color: #4082ED;
+        color: #fff;
+        font-weight: bold;
+        font-size: 1.4rem;
+}
+.google{
+    border: 5px sloid #fff;
+}
